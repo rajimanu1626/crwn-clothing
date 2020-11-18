@@ -1,0 +1,37 @@
+.contact{
+display:flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+
+.contactAt{
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+
+
+.name{
+    text-transform: uppercase;
+    
+}
+
+.socialMedia{
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+    align-items: center;
+
+    a{
+        padding: 25px;
+    }
+
+}
+.logo{
+    width:24px;
+    height: 24px;
+    
+}
+}
